@@ -17,7 +17,3 @@ I enjoy solving problems, understanding how systems work at the core, and consta
 ## 
 
 📫 How to reach me keerthisuryateja2005@gmail.com
-
-
-## 🛠 Skills
-C, Java, Python
