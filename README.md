@@ -26,7 +26,4 @@ I enjoy solving problems, understanding how systems work at the core, and consta
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=keerthisuryateja&icon=0&color=0)](https://visitcount.itsvg.in)
-## 
-
 📫 How to reach me keerthisuryateja2005@gmail.com
